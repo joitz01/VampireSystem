@@ -1,0 +1,18 @@
+Vampire System
+(main reference point https://my-vampire-system.fandom.com/) 
+
+When not near a tree or in shade, debuff health. 
+When receiving damage from any light attack, add damage modifier 
+Have this be level Based.  New skills as one evolves.
+Different Levels of Evolution.  
+  Example: Halfing, Vampire, Vampire Peer, Vampire Noble, Vampure Lord, Vampire Elder 
+
+Each Evolution will change skills sets
+
+Need to create new skill books for each evolution .
+
+sub classes as summons
+  banshee, whites, gouls, succubus 
+
+
+Humans will have abilities (this may jsut be the standard abilities already in Ultima Online, with some expansion. 
