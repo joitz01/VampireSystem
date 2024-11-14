@@ -10,3 +10,16 @@ using Server.Regions;
 using System.Collections;
 using Server.Engines.Craft;
 using System.Collections.Generic;
+using VampireSystem;
+
+namespace VampireSystem
+{
+    public class MainComponents
+    {	  
+      public static void PlayerRankUpControl (Mobile m, RankDatabase DB)
+      {
+  
+      }
+    }
+}
+    
